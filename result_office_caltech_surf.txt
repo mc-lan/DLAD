@@ -1,0 +1,39 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 19-Jan-2022 15:26:54
+r = 1.5  eta = 0.5 lambda = 10.0
+***************************
+amazon_vs_Caltech10 :
+accuracy: 46.75
+***************************
+amazon_vs_dslr :
+accuracy: 49.04
+***************************
+amazon_vs_webcam :
+accuracy: 47.12
+***************************
+Caltech10_vs_amazon :
+accuracy: 57.62
+***************************
+Caltech10_vs_dslr :
+accuracy: 43.95
+***************************
+Caltech10_vs_webcam :
+accuracy: 52.88
+***************************
+dslr_vs_amazon :
+accuracy: 39.87
+***************************
+dslr_vs_Caltech10 :
+accuracy: 35.17
+***************************
+dslr_vs_webcam :
+accuracy: 81.02
+***************************
+webcam_vs_amazon :
+accuracy: 41.02
+***************************
+webcam_vs_Caltech10 :
+accuracy: 37.85
+***************************
+webcam_vs_dslr :
+accuracy: 85.35

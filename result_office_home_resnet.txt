@@ -1,0 +1,39 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 25-May-2020 18:27:40
+r = 1.3  eta = 0.5 lambda = 10.0
+******************************
+Art_Art_vs_Art_Clipart :
+accuracy: 57.69
+******************************
+Art_Art_vs_Art_Product :
+accuracy: 78.08
+******************************
+Art_Art_vs_Art_RealWorld :
+accuracy: 80.70
+******************************
+Clipart_Clipart_vs_Clipart_Art :
+accuracy: 60.86
+******************************
+Clipart_Clipart_vs_Clipart_Product :
+accuracy: 73.42
+******************************
+Clipart_Clipart_vs_Clipart_RealWorld :
+accuracy: 74.04
+******************************
+Product_Product_vs_Product_Art :
+accuracy: 63.12
+******************************
+Product_Product_vs_Product_Clipart :
+accuracy: 53.06
+******************************
+Product_Product_vs_Product_RealWorld :
+accuracy: 80.33
+******************************
+RealWorld_RealWorld_vs_RealWorld_Art :
+accuracy: 70.29
+******************************
+RealWorld_RealWorld_vs_RealWorld_Clipart :
+accuracy: 59.45
+******************************
+RealWorld_RealWorld_vs_RealWorld_Product :
+accuracy: 82.61
